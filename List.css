@@ -1,0 +1,22 @@
+.Item {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    width: 100px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.Item p {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+}
+
+.Item button {
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+    padding: 2px;
+}
